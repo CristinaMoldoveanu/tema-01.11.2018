@@ -1,0 +1,14 @@
+body {
+  background-color: lightblue;
+  font-family: cursive;
+  margin-left: 10%;
+}
+h1 {
+  color: green;
+}
+h2 {
+  color: red;
+}
+p {
+  color: brown;
+}
